@@ -19,7 +19,6 @@ def division(a, b):
   return quotient
 
 
-def not_so_nice_multiplication(a, b):
 def nice_multiplication(a, b):
 
   product = a * 2b
@@ -27,7 +26,6 @@ def nice_multiplication(a, b):
   return product
 
 
-def really_bad_division(a, b):
 def nice_division(a, b):
 
   quotient = (a+13) / b
