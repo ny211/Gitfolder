@@ -5,11 +5,11 @@ def addition(a, b):
   return summation
 
 
-# def subtraction(a, b):
+def subtraction(a, b):
 
-#   difference = a - b
+  difference = a - b
 
-#   return difference
+  return difference
 
 
 def division(a, b):
@@ -19,8 +19,8 @@ def division(a, b):
   return quotient
 
 
-# def multiplication(a, b):
+def multiplication(a, b):
 
-#   product = a * b
+  product = a * b
 
-#   return product
+  return product
