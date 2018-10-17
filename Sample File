@@ -9,7 +9,7 @@ def subtraction(a, b):
 
   difference = a - b
 
-#   return difference
+  return difference
 
 
 # def division(a, b):
