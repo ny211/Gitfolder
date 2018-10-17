@@ -19,14 +19,14 @@ def division(a, b):
   return quotient
 
 
-def nicemultiplication(a, b):
+def not_so_nice_multiplication(a, b):
 
   product = a * 2b
 
   return product
 
 
-def bad_division(a, b):
+def really_bad_division(a, b):
 
   quotient = (a+13) / b
 
