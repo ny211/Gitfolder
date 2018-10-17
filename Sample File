@@ -24,3 +24,10 @@ def nicemultiplication(a, b):
   product = a * 2b
 
   return product
+
+
+def bad_division(a, b):
+
+  quotient = (a+13) / b
+
+  return quotient
