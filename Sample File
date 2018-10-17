@@ -18,7 +18,7 @@ def division(a, b):
 
   return quotient
 
-# def multiplication(a, b):
+def multiplication(a, b):
 
 #   product = a * b
 
