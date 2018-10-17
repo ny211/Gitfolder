@@ -14,7 +14,7 @@ def subtraction(a, b):
 
 def division(a, b):
 
-#   quotient = a / b
+  quotient = a / b
 
 #   return quotient
 
